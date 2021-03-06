@@ -14,6 +14,7 @@ void main()
 	cout << "2-sample test cases." << endl;
 	cout << "3-complete test cases." << endl;
 	cin >> choice;
+	system("CLS");
 	auto start = high_resolution_clock::now();
 	if (choice == 1)
 	{
