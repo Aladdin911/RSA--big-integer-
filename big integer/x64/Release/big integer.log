@@ -1,0 +1,16 @@
+﻿  biginteger.cpp
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(10): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(50): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(51): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(137): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(138): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(195): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(196): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Source.cpp
+c:\users\mohammad\desktop\big integer\big integer\source.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating code
+c:\users\mohammad\desktop\big integer\big integer\biginteger.cpp(221): warning C4715: 'biginteger::isgreater': not all control paths return a value
+  All 264 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  big integer.vcxproj -> C:\Users\Mohammad\Desktop\big integer\x64\Release\big integer.exe

@@ -1,0 +1,6 @@
+﻿  biginteger.cpp
+  Source.cpp
+c:\users\mohammad\source\repos\big integer\big integer\source.cpp(10): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+c:\users\mohammad\source\repos\big integer\big integer\biginteger.cpp(221): warning C4715: 'biginteger::isgreater': not all control paths return a value
+  big integer.vcxproj -> C:\Users\Mohammad\source\repos\big integer\Debug\big integer.exe
